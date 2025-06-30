@@ -18,3 +18,13 @@ Guides the Design Process:
 - Wireframes act as a guide for subsequent design and development phases, ensuring that the final product aligns with the initial vision and requirements.
 Focuses on Functionality and User Experience:
 - By stripping away visual design elements, wireframes allow designers to concentrate on the functionality and user experience, ensuring the product is intuitive and user-friendly.
+
+# Key Elements in a Wireframe
+- Layout Structure: Defines the arrangement of elements on the page.
+- Navigation: Shows how users will move through the site or application.
+- Content Placement: Indicates where text, images, and other content will be positioned.
+- Functionality: Outlines key functionalities and interactions.
+
+# Types of Wireframes
+- Low-Fidelity Wireframes: Simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design.
+- High-Fidelity Wireframes: More detailed and refined versions, often closer to the final design, including more specific layout and design elements.
