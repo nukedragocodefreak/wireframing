@@ -70,17 +70,17 @@ Wireframes act as a universal language for designers, developers, product manage
 - **Supporting Remote Collaboration:** Because Figma is browser-based, team members across different locations and devices can work together seamlessly, fostering transparency and faster decision-making.
 - **Documenting Design Decisions:** Wireframes provide a record of early design choices that can be referenced throughout the project, helping maintain consistency. Using Figma’s version control and component libraries, teams can track changes and reuse design elements.
 
-## Real-World Scenario: Using Wireframing to Improve a Cashout Service Design
+## Real-World Scenario: Using Wireframing to Improve a Consumer Service Design
 
-In a project focused on building a **cashout service** that uses **KSQL** to push live bets to a cashout endpoint, the product team relied heavily on wireframing to plan the system’s user interface and workflows before starting development.
+In a project focused on building a **Consumer service** that uses **KSQL** to push live bets to a client endpoint, the product team relied heavily on wireframing to plan the system’s user interface and workflows before starting development.
 
 ### The Challenge
 
 The initial wireframes illustrated a dashboard where users could view their active bets and instantly cash out through a single screen. However, early wireframe reviews uncovered several usability concerns:
 
 - **Complex Data Display:** Showing all bets with detailed real-time statuses created a cluttered interface that was hard to scan quickly.
-- **Unclear Cashout Process:** Users found it confusing how to initiate and confirm cashouts, risking accidental actions or hesitation.
-- **Lack of Feedback on Cashout Status:** The wireframe lacked clear visual feedback indicating whether the cashout request was processing, successful, or failed.
+- **Unclear Consumer Process:** Users found it confusing how to initiate and confirm cashouts, risking accidental actions or hesitation.
+- **Lack of Feedback on Consumer Status:** The wireframe lacked clear visual feedback indicating whether the cashout request was processing, successful, or failed.
 
 ### How Wireframing Helped Resolve These Issues
 
@@ -102,4 +102,5 @@ Addressing these usability issues during wireframing led to:
 
 ### Summary
 
-This scenario demonstrates how wireframing plays a crucial role in complex real-time applications like a cashout service using KSQL. By visualizing and testing workflows before coding, wireframes help teams identify and fix usability problems early, facilitate collaboration across product, design, and engineering, and ensure a user-friendly final product.
+- This scenario demonstrates how wireframing plays a crucial role in complex real-time applications like a Consumer service using KSQL. By visualizing and testing workflows before coding, wireframes help teams identify and fix usability problems early, facilitate collaboration across product, design, and engineering, and ensure a user-friendly final product.
+- K-SQL is a part of confluent kafka anad can be used to join and manipulate data in kafka topics.
